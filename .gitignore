@@ -1,5 +1,8 @@
 # Local Codex working files
 work/
+node_modules/
+.feishu-codex-bridge.json
+*.log
 
 # macOS metadata
 .DS_Store

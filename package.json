@@ -1,0 +1,14 @@
+{
+  "name": "feishu-codex-bridge",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Private Feishu bridge for continuing local Codex tasks",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/feishu-codex-bridge.js",
+    "check": "node --check src/feishu-codex-bridge.js"
+  },
+  "dependencies": {
+    "@larksuiteoapi/node-sdk": "^1.68.0"
+  }
+}
